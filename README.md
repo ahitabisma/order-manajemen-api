@@ -47,10 +47,10 @@ npx prisma db seed -- --all
 ```
 
 #### User
-| Email                 | Password    | Role     |
-| --------------------- | ----------- | -------- |
-| `admin@gmail.com`     | `123123`    | ADMIN    | 
-| `customer@gmail.com`  | `123123`    | CUSTOMER | 
+| Email                   | Password    | Role     |
+| ----------------------- | ----------- | -------- |
+| `admin@example.com`     | `123123`    | ADMIN    | 
+| `customer@example.com`  | `123123`    | CUSTOMER | 
 
 ### 7. Run Aplikasi
 
