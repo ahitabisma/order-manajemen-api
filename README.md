@@ -46,6 +46,12 @@ npx prisma migrate dev
 npx prisma db seed -- --all
 ```
 
+#### User
+| Email                 | Password    | Role     |
+| --------------------- | ----------- | -------- |
+| `admin@gmail.com`     | `123123`    | ADMIN    | 
+| `customer@gmail.com`  | `123123`    | CUSTOMER | 
+
 ### 7. Run Aplikasi
 
 ```bash
